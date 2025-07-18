@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sq5rix - Tom Wawer
 - 👀 I’m IT dev and songwriter
-- 🌱 I write a book: Cotporate Communication DNA. It is in publication proces. 
+- 🌱 I write a book: Corporate Communication DNA. It is in publication proces. 
 - 📫 I'm on insta and youtube as tom_wawer, spotify as tom wawer 
 
 <!---
